@@ -1,12 +1,12 @@
-<!-- Profile README for faisukhan01 — Experienced Full Stack Software Engineer & Mobile App Developer -->
+<!-- Profile README for faisukhan01 — Full Stack Software Engineer & Mobile App Developer -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&random=false&width=640&lines=Hi+there+%F0%9F%91%8B+I'm+Faisal+Arslan+Khan;Experienced+Full+Stack+Software+Engineer;Mobile+App+Developer;Next.js+%C2%B7+Flutter+%C2%B7+TypeScript+%C2%B7+Prisma" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&random=false&width=640&lines=Hi+there+%F0%9F%91%8B+I'm+Faisal+Arslan+Khan;Full+Stack+Software+Engineer;Mobile+App+Developer;Next.js+%C2%B7+Flutter+%C2%B7+TypeScript+%C2%B7+Prisma" alt="Typing SVG" />
 
 <br/>
 
-### 🚀 Experienced Full Stack Software Engineer · Mobile App Developer
+### 🚀 Full Stack Software Engineer · Mobile App Developer
 
 I design, build & ship **production-grade web and mobile applications** end-to-end —
 from database schema to pixel-perfect UI, from REST/GraphQL APIs to native Android apps.
@@ -169,5 +169,5 @@ Over the years I've built and shipped **role-based enterprise systems, e-commerc
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=faisukhan01&label=Profile+Views&color=10b981&style=flat-square" alt="Profile Views" />
 <br/>
-<sub>Experienced Full Stack Software Engineer & Mobile App Developer · Always shipping · Open to opportunities</sub>
+<sub>Full Stack Software Engineer & Mobile App Developer · Always shipping · Open to opportunities</sub>
 </div>
