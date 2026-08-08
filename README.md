@@ -13,6 +13,7 @@ from database schema to pixel-perfect UI, from REST/GraphQL APIs to native Andro
 
 <br/>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faisal-arslan-khan-a3140232a/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faisu577277@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/faisukhan01)
 
@@ -160,6 +161,7 @@ Over the years I've built and shipped **role-based enterprise systems, e-commerc
 
 <div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faisal-arslan-khan-a3140232a/)
 [![Email](https://img.shields.io/badge/faisu577277@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faisu577277@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/faisukhan01)
 [![Portfolio](https://img.shields.io/badge/Concordia_College-LIVE-10B981?style=for-the-badge&logo=vercel&logoColor=white)](https://www.concordiacollegecanalcampus.com/)
