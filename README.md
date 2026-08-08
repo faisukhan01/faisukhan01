@@ -42,7 +42,7 @@ Over the years I've built and shipped **role-based enterprise systems, e-commerc
   <tr>
     <td width="100%">
       <div align="center">
-        <img src="./concordia.png" alt="Concordia College Logo" width="320" />
+        <img src="https://raw.githubusercontent.com/faisukhan01/faisukhan01/main/concordia.png" alt="Concordia College Logo" width="320" />
         <h2>🎓 Concordia College — Web & Mobile Management Platform</h2>
         <p><em>A complete, production-deployed institution management system — live and in use.</em></p>
         <p>
