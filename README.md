@@ -13,7 +13,6 @@ from database schema to pixel-perfect UI, from REST/GraphQL APIs to native Andro
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Concordia_College-LIVE-10B981?style=for-the-badge&logo=vercel&logoColor=white)](https://www.concordiacollegecanalcampus.com/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faisu577277@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/faisukhan01)
 
@@ -42,9 +41,8 @@ Over the years I've built and shipped **role-based enterprise systems, e-commerc
   <tr>
     <td width="100%">
       <div align="center">
-        <img src="https://raw.githubusercontent.com/faisukhan01/faisukhan01/main/concordia.png" alt="Concordia College Logo" width="320" />
-        <h2>🎓 Concordia College — Web & Mobile Management Platform</h2>
-        <p><em>A complete, production-deployed institution management system — live and in use.</em></p>
+        <img src="https://raw.githubusercontent.com/faisukhan01/faisukhan01/main/concordia.png" alt="Concordia College Logo" width="200" />
+        <h3>🎓 Concordia College — Web & Mobile Management Platform</h3>
         <p>
           <a href="https://www.concordiacollegecanalcampus.com/"><img src="https://img.shields.io/badge/%F0%9F%94%B4_LIVE-concordiacollegecanalcampus.com-10B981?style=for-the-badge" alt="Live Site" /></a>
           <a href="https://github.com/faisukhan01/concordia2"><img src="https://img.shields.io/badge/Source_Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" /></a>
@@ -58,27 +56,11 @@ Over the years I've built and shipped **role-based enterprise systems, e-commerc
           <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
         </p>
       </div>
-      <br/>
       <p align="left">
-        A full-featured institution management platform serving an actual college, deployed at
-        <a href="https://www.concordiacollegecanalcampus.com/">concordiacollegecanalcampus.com</a> and used daily by
-        staff, faculty, and students. Built as a <strong>Next.js 16 web portal + Flutter Android app</strong> sharing a
-        unified role-based access system across <strong>five distinct portals</strong>:
-      </p>
-      <ul>
-        <li><b>🛡️ Admin Portal</b> — full institutional control: users, roles, fees, attendance, academic configuration.</li>
-        <li><b>📝 Admissions Portal</b> — applicant onboarding, merit lists, enrollment workflows.</li>
-        <li><b>💰 Accountant Portal</b> — fee challan generation, payment tracking, financial reporting.</li>
-        <li><b>📚 Academic Portal</b> — class management, attendance, grades, timetable, result publishing.</li>
-        <li><b>🎓 Student Portal</b> (web + mobile) — attendance, grades, fee status, timetable, announcements — accessible anywhere via the Android app.</li>
-      </ul>
-      <p align="left">
-        <b>Engineering highlights:</b> unified role-based auth across web &amp; mobile, type-safe Prisma data layer,
-        responsive shadcn/ui design system, real-time attendance &amp; result sync, and a Flutter Android app that mirrors
-        the student portal for on-the-go access.
-      </p>
-      <p align="left">
-        <b>Scale:</b> ~1.85 MB TypeScript + 91 KB Dart + native Android (Kotlin) — a genuine multi-platform codebase, not a demo.
+        A production-deployed institution management system — <strong>Next.js 16 web portal + Flutter Android app</strong>
+        with unified role-based access across five portals:
+        <b>Admin</b> · <b>Admissions</b> · <b>Accountant</b> · <b>Academic</b> · <b>Student</b> (web + mobile).
+        Live and in daily use by staff, faculty, and students.
       </p>
     </td>
   </tr>
@@ -92,6 +74,8 @@ Over the years I've built and shipped **role-based enterprise systems, e-commerc
   <strong>Languages:</strong><br/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
