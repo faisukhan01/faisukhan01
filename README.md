@@ -139,10 +139,10 @@ Over the years I've built and shipped **role-based enterprise systems, e-commerc
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faisukhan01&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=10B981&icon_color=10B981&text_color=555" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faisukhan01&theme=transparent&hide_border=true&ring=10B981&fire=10B981&currStreakLabel=10B981" height="170" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=faisukhan01&theme=default" height="160" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=faisukhan01&theme=clean&hide_border=true&ring=10B981&fire=10B981&currStreakLabel=10B981" height="160" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisukhan01&layout=compact&theme=transparent&hide_border=true&title_color=10B981&text_color=555&langs_count=8" height="170" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=faisukhan01&theme=default" height="160" alt="Top Languages" />
 </div>
 
 ---
