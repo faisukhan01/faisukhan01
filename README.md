@@ -4,7 +4,10 @@
   ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/faisukhan01/faisukhan01@main/assets/banner.png?v=2" width="100%" alt="Faisal Arslan Khan — 3D render banner: the red-cap Dummy Surfers hero sprinting along a golden subway track lined with gold coins, his name embossed in gold inside a floating glass title panel"/>
+  <picture>
+    <source type="image/webp" srcset="https://cdn.jsdelivr.net/gh/faisukhan01/faisukhan01@main/assets/banner.webp?v=3"/>
+    <img src="https://cdn.jsdelivr.net/gh/faisukhan01/faisukhan01@main/assets/banner.png?v=3" width="100%" alt="Faisal Arslan Khan — animated 3D banner: the red-cap Dummy Surfers hero running along a golden subway track while gold coins drift and spin, his name in gold inside a floating glass title panel"/>
+  </picture>
 </div>
 
 <br/>
