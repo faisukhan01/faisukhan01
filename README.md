@@ -107,13 +107,38 @@
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=faisukhan01&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=FFB84D&icon_color=FF6B35&text_color=C9D1D9" height="165" alt="Faisal's GitHub stats"/></td>
-      <td><img src="https://streak-stats.demolab.com?user=faisukhan01&hide_border=true&background=00000000&ring=FF6B35&fire=FFD166&currStreakLabel=FFD166&sideLabels=FFB26B&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=FFE3C0" height="165" alt="GitHub streak — current and longest streaks"/></td>
+      <td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=faisukhan01&theme=github-dark"/>
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=faisukhan01&theme=default" height="150" alt="GitHub stats — commits, PRs, issues and contributions"/>
+        </picture>
+      </td>
+      <td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=faisukhan01&hide_border=true&background=0D1117&ring=FF6B35&fire=FFD166&currStreakLabel=FFD166&sideLabels=FFB26B&currStreakNum=F0F6FC&sideNums=F0F6FC&dates=FFE3C0"/>
+          <img src="https://streak-stats.demolab.com?user=faisukhan01&hide_border=true&background=FFFFFF&ring=FF6B35&fire=FFD166&currStreakLabel=FF6B35&sideLabels=B3541E&currStreakNum=24292F&sideNums=24292F&dates=8B4513" height="150" alt="GitHub streak — current and longest streaks"/>
+        </picture>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=faisukhan01&theme=github-dark"/>
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=faisukhan01&theme=default" height="150" alt="Top languages by repository"/>
+        </picture>
+      </td>
+      <td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=faisukhan01&theme=github-dark"/>
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=faisukhan01&theme=default" height="150" alt="Top languages by commits"/>
+        </picture>
+      </td>
     </tr>
   </table>
-  <img src="https://github-profile-trophy.vercel.app/?username=faisukhan01&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" alt="GitHub profile trophies"/>
-  <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faisukhan01&theme=react-dark&hide_border=true&bg_color=00000000&color=FFE3C0&line=FF6B35&point=FFD166&area=true&area_color=FF6B35&custom_title=Contribution%20Activity" width="100%" alt="Contribution activity graph"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=faisukhan01&theme=github-dark"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=faisukhan01&theme=default" height="140" alt="Most productive coding time of day"/>
+  </picture>
 </div>
 
 ## 🐍 Contribution Snake
