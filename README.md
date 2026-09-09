@@ -1,175 +1,135 @@
-<!-- Profile README for faisukhan01 — Full Stack Software Engineer & Mobile App Developer -->
+<!-- ══════════════════════════════════════════════════════════════════════
+  FAISAL ARSLAN KHAN · github.com/faisukhan01
+  theme: "3D endless runner" — handcrafted animated SVG banner & widgets
+  ══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&random=false&width=640&lines=Hi+there+%F0%9F%91%8B+I'm+Faisal+Arslan+Khan;Full+Stack+Software+Engineer;Mobile+App+Developer;Next.js+%C2%B7+Flutter+%C2%B7+TypeScript+%C2%B7+Prisma" alt="Typing SVG" />
-
-<br/>
-
-### 🚀 Full Stack Software Engineer · Mobile App Developer
-
-I design, build & ship **production-grade web and mobile applications** end-to-end —
-from database schema to pixel-perfect UI, from REST/GraphQL APIs to native Android apps.
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faisal-arslan-khan-a3140232a/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faisu577277@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/faisukhan01)
-
+  <img src="assets/banner.svg" width="100%" alt="Faisal Arslan Khan — animated 3D subway-runner banner: a chibi hero sprinting down endless tracks at sunset while trains rush past"/>
 </div>
 
----
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=800&color=FFB84D&center=true&vCenter=true&width=690&lines=Hi+there+%F0%9F%91%8B+I%27m+Faisal+Arslan+Khan;Full-Stack+Software+Engineer;Mobile+App+Developer+%F0%9F%93%B1;3D+Game+Creator+%C2%B7+DUMMY+SURFERS+%F0%9F%8E%AE;I+ship+web+%2B+mobile+%2B+games+%F0%9F%9A%80" alt="Typing animation: role headlines"/>
+</div>
 
-## 👨‍💻 About Me
+<div align="center">
+  <br/>
+  <a href="https://www.linkedin.com/in/faisal-arslan-khan-a3140232a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:faisu577277@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/faisukhan01"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.concordiacollegecanalcampus.com/"><img src="https://img.shields.io/badge/%F0%9F%8E%93_Concordia-LIVE-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Concordia live site"/></a>
+</div>
 
-I'm **Faisal Arslan Khan**, a full-stack software engineer and mobile app developer with a track record of delivering **end-to-end, production-ready platforms** — spanning web portals, Android apps, and the APIs that connect them.
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-Over the years I've built and shipped **role-based enterprise systems, e-commerce platforms, learning management systems, sales CRMs, and healthcare applications** — taking products from a blank repository to a live, deployed, real-world user base.
+## ⚡ About Me
 
-- 🏗️ **What I do best:** architect full-stack apps that scale — **Next.js 16** on the web, **Flutter** on mobile, shared **TypeScript** APIs in the middle.
-- 📱 **Mobile:** production Android apps in **Flutter/Dart**, published and maintained for real institutions.
-- 🧠 **AI-integrated engineering:** LLM/VLM orchestration, RAG pipelines, intelligent automation in healthcare & education products.
-- 🎯 **Engineering standards:** type-safe end-to-end, clean architecture, role-based access control, thoughtful UX, and documentation that future devs thank me for.
-- 🤝 **Currently open to** full-time roles and freelance projects in full-stack web / mobile / AI engineering.
-- 📫 **Reach me:** faisu577277@gmail.com
+- 🚀 **Full-stack engineer** — **Next.js 16** on the web, **Flutter** on mobile, shared **TypeScript** APIs in the middle, **Prisma/SQL** underneath. I own the entire vertical slice, from schema to pixel-perfect UI.
+- 🎮 **Game creator** — building **[Dummy Surfers](https://github.com/faisukhan01/dummysurfers)**, a Subway-Surfers-style **3D endless runner** in **C# / Godot 4.7**, tuned against a **2,000+ iteration benchmark of the original game** (gait, economy, HUD — every value matched).
+- 📱 **Mobile shipper** — production **Flutter/Dart** Android apps published and in daily use by real institutions.
+- 🧠 **AI-integrated engineering** — LLM orchestration, VLM vision pipelines, RAG, TTS/ASR woven into real healthcare & education products.
+- 🏗️ **Systems thinker** — role-based access control, multi-tenant architecture, CI/CD pipelines, **5,800+ commits** and counting.
+- 📫 **Open to** full-time roles & freelance in full-stack web / mobile / AI engineering → **faisu577277@gmail.com**
 
----
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-## 🌟 Flagship Project
+## 🎮 Flagship — DUMMY SURFERS
 
 <table>
   <tr>
-    <td width="100%">
-      <div align="center">
-        <img src="https://raw.githubusercontent.com/faisukhan01/faisukhan01/main/concordia.png" alt="Concordia College Logo" width="200" />
-        <h3>🎓 Concordia College — Web & Mobile Management Platform</h3>
-        <p>
-          <a href="https://www.concordiacollegecanalcampus.com/"><img src="https://img.shields.io/badge/%F0%9F%94%B4_LIVE-concordiacollegecanalcampus.com-10B981?style=for-the-badge" alt="Live Site" /></a>
-          <a href="https://github.com/faisukhan01/concordia2"><img src="https://img.shields.io/badge/Source_Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" /></a>
-        </p>
-        <p>
-          <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js&logoColor=white" />
-          <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-          <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-          <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-          <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
-        </p>
-      </div>
-      <p align="left">
-        A production-deployed institution management system — <strong>Next.js 16 web portal + Flutter Android app</strong>
-        with unified role-based access across five portals:
-        <b>Admin</b> · <b>Admissions</b> · <b>Accountant</b> · <b>Academic</b> · <b>Student</b> (web + mobile).
-        Live and in daily use by staff, faculty, and students.
+    <td width="33%" valign="top">
+      <img src="assets/dummy-surfers.png" width="100%" alt="Dummy Surfers key art: the red-cap hero sprinting along a station platform as a train pulls in"/>
+    </td>
+    <td valign="top">
+      <h3>🚇 A Subway-Surfers-style 3D endless runner for Android</h3>
+      <p>Swipe between lanes, dodge oncoming trains, grab coins, ride the multiplier to a high score — <b>100% hand-built</b>: character rig, procedural run/jump/roll animations, station world, synth soundtrack.</p>
+      <ul>
+        <li>🕹️ <b>C# on Godot 4.7</b> — custom hero rig with keyframed poses &amp; smooth state machine</li>
+        <li>📊 <b>2,000+ SS benchmark iterations</b> — lane width, stride, coin economy &amp; HUD pulses matched to the original</li>
+        <li>🎨 <b>AI-baked art pipeline</b> — every texture, key art &amp; brand asset generated, then hand-finished</li>
+        <li>⚙️ <b>CI/CD</b> — every version compiled &amp; shipped as an APK by GitHub Actions</li>
+      </ul>
+      <p>
+        <a href="https://github.com/faisukhan01/dummysurfers/releases/latest/download/DummySurfers.apk"><img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F_Download_APK-Latest_Release-FF6B35?style=for-the-badge&logo=android&logoColor=white" alt="Download Dummy Surfers APK"/></a>
+        <a href="https://github.com/faisukhan01/dummysurfers"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Dummy Surfers source code"/></a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/github/v/release/faisukhan01/dummysurfers?style=flat-square&label=Version&color=FF6B35" alt="Latest release version"/>
+        <img src="https://img.shields.io/github/downloads/faisukhan01/dummysurfers/total?style=flat-square&label=APK%20Downloads&color=FFD166" alt="Total APK downloads"/>
+        <img src="https://img.shields.io/badge/Commits-5%2C800%2B-26A641?style=flat-square&logo=git&logoColor=white" alt="Commit count"/>
+        <img src="https://img.shields.io/badge/Engine-Godot_4.7-478CBF?style=flat-square&logo=godotengine&logoColor=white" alt="Godot 4.7"/>
+        <img src="https://img.shields.io/badge/Language-C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#"/>
       </p>
     </td>
   </tr>
 </table>
 
----
+## 🎓 Also Shipping — Concordia College Platform
 
-## 🛠️ Tech Stack
+<table>
+  <tr>
+    <td width="67%" valign="top">
+      <h3>🏫 Campus management, live &amp; in daily use</h3>
+      <p>A production institution platform — <b>Next.js 16 web portal + Flutter Android app</b> with unified role-based access across five portals: <b>Admin · Admissions · Accountant · Academic · Student</b> (web + mobile). Built end-to-end: schema → API → UI → Play Store.</p>
+      <p>
+        <a href="https://www.concordiacollegecanalcampus.com/"><img src="https://img.shields.io/badge/%F0%9F%94%B4_LIVE-concordiacollegecanalcampus.com-10B981?style=for-the-badge" alt="Live site"/></a>
+        <a href="https://github.com/faisukhan01/concordia2"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code"/></a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js 16"/>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/>
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <img src="concordia.png" width="100%" alt="Concordia College logo"/>
+    </td>
+  </tr>
+</table>
 
-<p>
-  <strong>Languages:</strong><br/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-</p>
-<p>
-  <strong>Web Frontend:</strong><br/>
-  <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS_4-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Recharts-FF7300?style=flat-square&logo=recharts&logoColor=white" />
-  <img src="https://img.shields.io/badge/three.js-000000?style=flat-square&logo=three.js&logoColor=white" />
-</p>
-<p>
-  <strong>Mobile:</strong><br/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-</p>
-<p>
-  <strong>Backend & Data:</strong><br/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js_API_Routes-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white" />
-</p>
-<p>
-  <strong>AI & Integrations:</strong><br/>
-  <img src="https://img.shields.io/badge/LLM_Orchestration-FF6F00?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/VLM_(Vision)-7C3AED?style=flat-square&logo=googemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/TTS_/_ASR-FF5722?style=flat-square&logo=googletranslate&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG_Pipelines-00897B?style=flat-square&logo=chroma&logoColor=white" />
-</p>
-<p>
-  <strong>State & Tooling:</strong><br/>
-  <img src="https://img.shields.io/badge/Zustand-000000?style=flat-square&logo=zo&logoColor=white" />
-  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" />
-</p>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
----
+## 🛠️ Arsenal
 
-## 💼 What I Bring
+<div align="center">
 
-| | |
-|:---|:---|
-| 🧩 **Full-Stack Ownership** | DB schema → API → UI → deploy. I own the whole vertical slice. |
-| 📱 **Cross-Platform Mobile** | Production Flutter/Android apps shipped alongside their web counterparts. |
-| 🔐 **Role-Based Architecture** | Multi-tenant, multi-role systems with secure, type-safe access control. |
-| 🎨 **Polished UX** | Design-system thinking — shadcn/ui, Tailwind 4, responsive, dark/light, accessibility. |
-| ⚡ **Performance & DX** | Server components, code-splitting, optimistic UI, clean repo structure. |
-| 🤝 **Reliable Delivery** | From first commit to live deployment — I ship, document, and maintain. |
+**Web & Mobile**
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,prisma,flutter,dart&perline=8" alt="TypeScript, JavaScript, React, Next.js, Node.js, Prisma, Flutter, Dart"/>
 
----
+**Game, Systems & Tools**
+<img src="https://skillicons.dev/icons?i=cs,cpp,c,godot,py,vercel,git,github&perline=8" alt="C#, C++, C, Godot, Python, Vercel, Git, GitHub"/>
+
+</div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=faisukhan01&theme=default" height="160" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=faisukhan01&theme=clean&hide_border=true&ring=10B981&fire=10B981&currStreakLabel=10B981" height="160" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=faisukhan01&theme=default" height="160" alt="Top Languages" />
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=faisukhan01&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=FFB84D&icon_color=FF6B35&text_color=C9D1D9" height="165" alt="Faisal's GitHub stats"/></td>
+      <td><img src="https://streak-stats.demolab.com?user=faisukhan01&hide_border=true&background=00000000&ring=FF6B35&fire=FFD166&currStreakLabel=FFD166&sideLabels=FFB26B&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=FFE3C0" height="165" alt="GitHub streak — current and longest streaks"/></td>
+    </tr>
+  </table>
+  <img src="https://github-profile-trophy.vercel.app/?username=faisukhan01&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" alt="GitHub profile trophies"/>
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faisukhan01&theme=react-dark&hide_border=true&bg_color=00000000&color=FFE3C0&line=FF6B35&point=FFD166&area=true&area_color=FF6B35&custom_title=Contribution%20Activity" width="100%" alt="Contribution activity graph"/>
 </div>
 
----
-
-## 📌 Currently
-
-- 🔭 **Open to full-time roles** — full-stack web / mobile / AI engineering
-- 🌱 Deepening skills in **LLM orchestration, RAG pipelines & agentic workflows**
-- 💬 Ask me about **Next.js, Flutter, Prisma, shipping production apps, or role-based system design**
-- ⚡ Fun fact: I believe a clean dashboard with one number per card beats a busy one with ten
-
----
-
-## 📬 Let's Connect
+## 🐍 Contribution Snake
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faisal-arslan-khan-a3140232a/)
-[![Email](https://img.shields.io/badge/faisu577277@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faisu577277@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/faisukhan01)
-[![Portfolio](https://img.shields.io/badge/Concordia_College-LIVE-10B981?style=for-the-badge&logo=vercel&logoColor=white)](https://www.concordiacollegecanalcampus.com/)
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faisukhan01/faisukhan01/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faisukhan01/faisukhan01/output/github-contribution-grid-snake.svg"/>
+    <img src="https://raw.githubusercontent.com/faisukhan01/faisukhan01/output/github-contribution-grid-snake.svg" width="100%" alt="Animated snake eating GitHub contributions"/>
+  </picture>
 </div>
 
+<img src="assets/divider.svg" width="100%" alt=""/>
+
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=faisukhan01&label=Profile+Views&color=10b981&style=flat-square" alt="Profile Views" />
-<br/>
-<sub>Full Stack Software Engineer & Mobile App Developer · Always shipping · Open to opportunities</sub>
+  <img src="https://komarev.com/ghpvc/?username=faisukhan01&label=PROFILE+VIEWS&color=FF6B35&style=for-the-badge" alt="Profile views"/>
+  <br/><br/>
+  <sub><b>“Details make the design. Shipping makes the engineer.”</b> — always building, always delivering 🚂💨</sub>
 </div>
