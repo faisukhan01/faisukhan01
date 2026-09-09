@@ -4,7 +4,7 @@
   ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="assets/banner.png" width="100%" alt="Faisal Arslan Khan — premium 3D glassmorphism banner: floating glass spheres, torus rings and frosted panels glowing warm amber on deep charcoal"/>
+  <img src="https://cdn.jsdelivr.net/gh/faisukhan01/faisukhan01@main/assets/banner.png" width="100%" alt="Faisal Arslan Khan — premium 3D glassmorphism banner: floating glass spheres, torus rings and frosted panels glowing warm amber on deep charcoal"/>
 </div>
 
 <br/>
@@ -24,7 +24,7 @@
 </div>
 
 <br/>
-<img src="assets/divider.png" width="240" alt=""/>
+<img src="https://cdn.jsdelivr.net/gh/faisukhan01/faisukhan01@main/assets/divider.png" width="240" alt=""/>
 
 <div align="center">
 
@@ -42,7 +42,7 @@ and I ship — **6,000+ commits** and counting.
 <table>
   <tr>
     <td width="53%" valign="middle">
-      <img src="assets/game-card.png" width="100%" alt="Dummy Surfers key art — the red-cap chibi hero sprinting down a sunny station platform between yellow and red subway trains, gold coins arcing overhead"/>
+      <img src="https://cdn.jsdelivr.net/gh/faisukhan01/faisukhan01@main/assets/game-card.png" width="100%" alt="Dummy Surfers key art — the red-cap chibi hero sprinting down a sunny station platform between yellow and red subway trains, gold coins arcing overhead"/>
     </td>
     <td valign="middle">
       <p><b>A Subway-Surfers-style 3D endless runner for Android — 100% hand-built.</b></p>
@@ -74,7 +74,7 @@ A production institution platform, **live and in daily use**: **[concordiacolleg
 <a href="https://www.concordiacollegecanalcampus.com/"><img src="https://img.shields.io/badge/%F0%9F%94%B4_LIVE-10B981?style=flat-square" alt="Live site"/></a>
 
 <br/>
-<img src="assets/divider.png" width="240" alt=""/>
+<img src="https://cdn.jsdelivr.net/gh/faisukhan01/faisukhan01@main/assets/divider.png" width="240" alt=""/>
 
 ## 🛠️ Arsenal
 
@@ -113,14 +113,14 @@ A production institution platform, **live and in daily use**: **[concordiacolleg
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faisukhan01/faisukhan01/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faisukhan01/faisukhan01/output/github-contribution-grid-snake.svg"/>
-    <img src="https://raw.githubusercontent.com/faisukhan01/faisukhan01/output/github-contribution-grid-snake.svg" width="100%" alt="Animated snake eating my GitHub contributions"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/faisukhan01/faisukhan01@output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/faisukhan01/faisukhan01@output/github-contribution-grid-snake.svg"/>
+    <img src="https://cdn.jsdelivr.net/gh/faisukhan01/faisukhan01@output/github-contribution-grid-snake.svg" width="100%" alt="Animated snake eating my GitHub contributions"/>
   </picture>
 </div>
 
 <br/>
-<img src="assets/divider.png" width="240" alt=""/>
+<img src="https://cdn.jsdelivr.net/gh/faisukhan01/faisukhan01@main/assets/divider.png" width="240" alt=""/>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=faisukhan01&label=PROFILE+VIEWS&color=FF6B35&style=flat-square" alt="Profile views"/>
