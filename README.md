@@ -4,7 +4,7 @@
   ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/faisukhan01/faisukhan01@main/assets/banner.png" width="100%" alt="Faisal Arslan Khan — premium 3D glassmorphism banner: floating glass spheres, torus rings and frosted panels glowing warm amber on deep charcoal"/>
+  <img src="https://cdn.jsdelivr.net/gh/faisukhan01/faisukhan01@main/assets/banner.png" width="100%" alt="Faisal Arslan Khan — 3D render banner: the red-cap Dummy Surfers hero sprinting along a golden subway track lined with gold coins, his name embossed in gold inside a floating glass title panel"/>
 </div>
 
 <br/>
@@ -68,10 +68,19 @@ and I ship — **6,000+ commits** and counting.
 
 ## 🏫 Also shipping — Concordia College Platform
 
-A production institution platform, **live and in daily use**: **[concordiacollegecanalcampus.com](https://www.concordiacollegecanalcampus.com/)**
-— Next.js 16 web portal + Flutter Android app, five role-based portals (Admin · Admissions · Accountant · Academic · Student), built end-to-end from schema to Play Store.
-&nbsp;
-<a href="https://www.concordiacollegecanalcampus.com/"><img src="https://img.shields.io/badge/%F0%9F%94%B4_LIVE-10B981?style=flat-square" alt="Live site"/></a>
+<table>
+  <tr>
+    <td width="132" valign="middle">
+      <a href="https://www.concordiacollegecanalcampus.com/"><img src="https://cdn.jsdelivr.net/gh/faisukhan01/faisukhan01@main/assets/concordia-logo.png" width="112" alt="Concordia College logo — white C mark on an orange square above the CONCORDIA wordmark"/></a>
+    </td>
+    <td valign="middle">
+      A production institution platform, <b>live and in daily use</b>: <b><a href="https://www.concordiacollegecanalcampus.com/">concordiacollegecanalcampus.com</a></b>
+      — Next.js 16 web portal + Flutter Android app, five role-based portals (Admin · Admissions · Accountant · Academic · Student), built end-to-end from schema to Play Store.
+      &nbsp;
+      <a href="https://www.concordiacollegecanalcampus.com/"><img src="https://img.shields.io/badge/%F0%9F%94%B4_LIVE-10B981?style=flat-square" alt="Live site"/></a>
+    </td>
+  </tr>
+</table>
 
 <br/>
 <img src="https://cdn.jsdelivr.net/gh/faisukhan01/faisukhan01@main/assets/divider.png" width="240" alt=""/>
