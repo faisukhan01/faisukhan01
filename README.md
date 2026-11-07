@@ -37,35 +37,6 @@ and I ship — **6,000+ commits** and counting.
 
 <br/>
 
-## 🎮 Flagship — DUMMY SURFERS
-
-<table>
-  <tr>
-    <td width="53%" valign="middle">
-      <img src="https://cdn.jsdelivr.net/gh/faisukhan01/faisukhan01@main/assets/game-card.png" width="100%" alt="Dummy Surfers key art — the red-cap chibi hero sprinting down a sunny station platform between yellow and red subway trains, gold coins arcing overhead"/>
-    </td>
-    <td valign="middle">
-      <p><b>A Subway-Surfers-style 3D endless runner for Android — 100% hand-built.</b></p>
-      <p>Swipe lanes, dodge oncoming trains, grab coins, ride the multiplier.
-      Custom hero rig, procedural run/jump/roll, full station world and a synth soundtrack —
-      every value tuned against a <b>2,000+ iteration benchmark</b> of the original game.</p>
-      <p>
-        <a href="https://github.com/faisukhan01/dummysurfers/releases/latest/download/DummySurfers.apk"><img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F_Download_APK-Latest-FF6B35?style=for-the-badge&logo=android&logoColor=white" alt="Download Dummy Surfers APK" height="26"/></a>
-        &nbsp;
-        <a href="https://github.com/faisukhan01/dummysurfers"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Dummy Surfers source code" height="26"/></a>
-      </p>
-      <p>
-        <img src="https://img.shields.io/github/v/release/faisukhan01/dummysurfers?style=flat-square&label=Version&color=FF6B35" alt="Latest release version"/>
-        <img src="https://img.shields.io/github/downloads/faisukhan01/dummysurfers/total?style=flat-square&label=Downloads&color=FFD166" alt="Total APK downloads"/>
-        <img src="https://img.shields.io/badge/Engine-Godot_4.7-478CBF?style=flat-square&logo=godotengine&logoColor=white" alt="Godot 4.7"/>
-        <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#"/>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
 ## 🏥 Also shipping — Harmony MedSpa Growth Command Center
 
 <table>
@@ -112,6 +83,37 @@ and I ship — **6,000+ commits** and counting.
       — Next.js 16 web portal + Flutter Android app, five role-based portals (Admin · Admissions · Accountant · Academic · Student), built end-to-end from schema to Play Store.
       &nbsp;
       <a href="https://www.concordiacollegecanalcampus.com/"><img src="https://img.shields.io/badge/%F0%9F%94%B4_LIVE-10B981?style=flat-square" alt="Live site"/></a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## 🎮 Also shipping — Dummy Surfers
+
+<table>
+  <tr>
+    <td width="46%" valign="middle">
+      <a href="https://github.com/faisukhan01/dummysurfers/releases/latest/download/DummySurfers.apk"><img src="https://cdn.jsdelivr.net/gh/faisukhan01/faisukhan01@main/assets/dummy-surfers-logo.png" width="200" alt="Dummy Surfers logo — chunky Subway-Surfers-style lettering in bouncing yellow and orange with thick white outlines and drop shadows"/></a>
+      <br/><br/>
+      <a href="https://github.com/faisukhan01/dummysurfers"><img src="https://cdn.jsdelivr.net/gh/faisukhan01/faisukhan01@main/assets/game-card.png" width="100%" alt="Dummy Surfers key art — the red-cap chibi hero sprinting down a sunny station platform between yellow and red subway trains, gold coins arcing overhead"/></a>
+    </td>
+    <td valign="middle">
+      <p><b>A Subway-Surfers-style 3D endless runner for Android — 100% hand-built.</b></p>
+      <p>Swipe lanes, dodge oncoming trains, grab coins, ride the multiplier.
+      Custom hero rig, procedural run/jump/roll, full station world and a synth soundtrack —
+      every value tuned against a <b>2,000+ iteration benchmark</b> of the original game.</p>
+      <p>
+        <a href="https://github.com/faisukhan01/dummysurfers/releases/latest/download/DummySurfers.apk"><img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F_Download_APK-Latest-FF6B35?style=for-the-badge&logo=android&logoColor=white" alt="Download Dummy Surfers APK" height="26"/></a>
+        &nbsp;
+        <a href="https://github.com/faisukhan01/dummysurfers"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Dummy Surfers source code" height="26"/></a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/github/v/release/faisukhan01/dummysurfers?style=flat-square&label=Version&color=FF6B35" alt="Latest release version"/>
+        <img src="https://img.shields.io/github/downloads/faisukhan01/dummysurfers/total?style=flat-square&label=Downloads&color=FFD166" alt="Total APK downloads"/>
+        <img src="https://img.shields.io/badge/Engine-Godot_4.7-478CBF?style=flat-square&logo=godotengine&logoColor=white" alt="Godot 4.7"/>
+        <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#"/>
+      </p>
     </td>
   </tr>
 </table>
