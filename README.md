@@ -156,6 +156,22 @@ and I ship — **6,000+ commits** and counting.
 
 <br/>
 
+### 🏆 Achievements
+
+<div align="center">
+  <a href="https://github.com/faisukhan01?tab=achievements&achievement=pull-shark"><img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" alt="Pull Shark — pull requests merged into public repositories"/></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/faisukhan01?tab=achievements&achievement=quickdraw"><img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" alt="Quickdraw — closed an issue or pull request within five minutes of opening it"/></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/faisukhan01?tab=achievements&achievement=pair-extraordinaire"><img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="80" alt="Pair Extraordinaire — co-authored commits in merged pull requests"/></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/faisukhan01?tab=achievements&achievement=yolo"><img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" alt="YOLO — merged a pull request without review"/></a>
+  <br/><br/>
+  <sub><b>Pull Shark</b> &nbsp;·&nbsp; <b>Quickdraw</b> &nbsp;·&nbsp; <b>Pair Extraordinaire</b> &nbsp;·&nbsp; <b>YOLO</b> &nbsp;—&nbsp; <i>65+ pull requests merged across my projects 🦈</i></sub>
+</div>
+
+<br/>
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/faisukhan01/faisukhan01@output/github-contribution-grid-snake-dark.svg"/>
