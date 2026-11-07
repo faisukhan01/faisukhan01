@@ -16,6 +16,8 @@
 <div align="center">
   <a href="https://github.com/faisukhan01/dummysurfers/releases/latest/download/DummySurfers.apk"><img src="https://img.shields.io/badge/%F0%9F%8E%AE_Get_my_game-Dummy_Surfers-FF6B35?style=for-the-badge&logo=android&logoColor=white" alt="Download Dummy Surfers APK" height="28"/></a>
   &nbsp;
+  <a href="https://www.harmonymedspafl.com/"><img src="https://img.shields.io/badge/%F0%9F%8F%A5_Harmony_MedSpa-Live-B99656?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Harmony MedSpa — live product" height="28"/></a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/faisal-arslan-khan-a3140232a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28"/></a>
   &nbsp;
   <a href="mailto:faisu577277@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="28"/></a>
@@ -57,6 +59,40 @@ and I ship — **6,000+ commits** and counting.
         <img src="https://img.shields.io/github/downloads/faisukhan01/dummysurfers/total?style=flat-square&label=Downloads&color=FFD166" alt="Total APK downloads"/>
         <img src="https://img.shields.io/badge/Engine-Godot_4.7-478CBF?style=flat-square&logo=godotengine&logoColor=white" alt="Godot 4.7"/>
         <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## 🏥 Also shipping — Harmony MedSpa Growth Command Center
+
+<table>
+  <tr>
+    <td width="46%" valign="middle">
+      <a href="https://www.harmonymedspafl.com/"><img src="https://cdn.jsdelivr.net/gh/faisukhan01/faisukhan01@main/assets/harmony-logo.png" width="188" alt="Harmony Med Spa logo — gold script wordmark with a leaf flourish above the MED SPA wordmark"/></a>
+      <br/><br/>
+      <a href="https://crm.harmonymedspafl.com/login"><img src="https://cdn.jsdelivr.net/gh/faisukhan01/faisukhan01@main/assets/harmony-login.png" width="100%" alt="Harmony CRM login screen — gold Harmony Med Spa branding over a real spa waiting-room interior"/></a>
+    </td>
+    <td valign="middle">
+      <p><b>The production patient-growth &amp; marketing CRM behind a real med spa in Sarasota, FL — live and in daily use.</b></p>
+      <p>Leads → <b>Speed-to-Lead</b> SMS + email in under 60 seconds → <b>14-day nurture</b> journeys,
+      Google Ads &amp; GA4 analytics, an editorial blog CMS, role-based staff access and an append-only audit trail —
+      built end-to-end in <b>Next.js 16 + React 19 + TypeScript</b> on Supabase &amp; Airtable.</p>
+      <p>
+        <a href="https://www.harmonymedspafl.com/"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Website-LIVE-B99656?style=flat-square" alt="Harmony MedSpa website — live"/></a>
+        &nbsp;
+        <a href="https://crm.harmonymedspafl.com/login"><img src="https://img.shields.io/badge/%F0%9F%94%90_CRM-LOGIN-0F766E?style=flat-square" alt="Harmony CRM dashboard login"/></a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js_16-black?style=flat-square&logo=next.js&logoColor=white" alt="Next.js 16"/>
+        <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
+        <img src="https://img.shields.io/badge/Airtable-18BFBF?style=flat-square&logo=airtable&logoColor=white" alt="Airtable"/>
+        <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=flat-square&logo=googleads&logoColor=white" alt="Google Ads"/>
+        <img src="https://img.shields.io/badge/GA4-E37400?style=flat-square&logo=googleanalytics&logoColor=white" alt="GA4"/>
       </p>
     </td>
   </tr>
