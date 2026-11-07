@@ -94,7 +94,7 @@ and I ship — **6,000+ commits** and counting.
 <table>
   <tr>
     <td width="46%" valign="middle">
-      <a href="https://github.com/faisukhan01/dummysurfers/releases/latest/download/DummySurfers.apk"><img src="https://cdn.jsdelivr.net/gh/faisukhan01/faisukhan01@main/assets/dummy-surfers-logo-v2.png" width="200" alt="Dummy Surfers logo — chunky rounded Subway-Surfers-style wordmark in a gold-to-orange gradient with thick white outlines, dark outlines and soft drop shadows"/></a>
+      <a href="https://github.com/faisukhan01/dummysurfers/releases/latest/download/DummySurfers.apk"><img src="https://cdn.jsdelivr.net/gh/faisukhan01/faisukhan01@main/assets/dummy-surfers-logo-v3.png" width="200" alt="Dummy Surfers logo — chunky rounded Subway-Surfers-style wordmark in a gold-to-orange gradient with thick white outlines, dark outlines and soft drop shadows"/></a>
       <br/><br/>
       <a href="https://github.com/faisukhan01/dummysurfers"><img src="https://cdn.jsdelivr.net/gh/faisukhan01/faisukhan01@main/assets/game-card.png" width="100%" alt="Dummy Surfers key art — the red-cap chibi hero sprinting down a sunny station platform between yellow and red subway trains, gold coins arcing overhead"/></a>
     </td>
