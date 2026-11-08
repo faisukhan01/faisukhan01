@@ -8,7 +8,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=2800&pause=900&color=FFB84D&center=true&vCenter=true&width=640&lines=Hi%2C+I%27m+Faisal+%F0%9F%91%8B;Full-Stack+Software+Engineer;I+build+3D+games%2C+web+platforms+%26+mobile+apps;Always+building%2C+always+shipping+%F0%9F%9A%80" alt="Typing animation: role headlines"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=29&duration=2800&pause=900&color=FFB84D&center=true&vCenter=true&width=850&height=64&lines=Hi%2C+I%27m+Faisal+%F0%9F%91%8B;Full-Stack+Software+Engineer;I+build+3D+games%2C+web+platforms+%26+mobile+apps;Always+building%2C+always+shipping+%F0%9F%9A%80" alt="Typing animation: role headlines"/>
 </div>
 
 <br/>
