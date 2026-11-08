@@ -51,6 +51,7 @@ and I ship — **6,000+ commits** and counting.
       <p>Leads → <b>Speed-to-Lead</b> SMS + email in under 60 seconds → <b>14-day nurture</b> journeys,
       Google Ads &amp; GA4 analytics, an editorial blog CMS, role-based staff access and an append-only audit trail —
       built end-to-end in <b>Next.js 16 + React 19 + TypeScript</b> on Supabase &amp; Airtable.</p>
+      <p>🌐 <b><a href="https://www.harmonymedspafl.com/">harmonymedspafl.com</a></b> &nbsp;·&nbsp; 🔐 <b><a href="https://crm.harmonymedspafl.com/login">crm.harmonymedspafl.com/login</a></b></p>
       <p>
         <a href="https://www.harmonymedspafl.com/"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Website-LIVE-B99656?style=flat-square" alt="Harmony MedSpa website — live"/></a>
         &nbsp;
@@ -79,10 +80,22 @@ and I ship — **6,000+ commits** and counting.
       <a href="https://www.concordiacollegecanalcampus.com/"><img src="https://cdn.jsdelivr.net/gh/faisukhan01/faisukhan01@main/assets/concordia-logo.png" width="112" alt="Concordia College logo — white C mark on an orange square above the CONCORDIA wordmark"/></a>
     </td>
     <td valign="middle">
-      A production institution platform, <b>live and in daily use</b>: <b><a href="https://www.concordiacollegecanalcampus.com/">concordiacollegecanalcampus.com</a></b>
-      — Next.js 16 web portal + Flutter Android app, five role-based portals (Admin · Admissions · Accountant · Academic · Student), built end-to-end from schema to Play Store.
-      &nbsp;
-      <a href="https://www.concordiacollegecanalcampus.com/"><img src="https://img.shields.io/badge/%F0%9F%94%B4_LIVE-10B981?style=flat-square" alt="Live site"/></a>
+      <p>A production institution platform, <b>live and in daily use</b>: <b><a href="https://www.concordiacollegecanalcampus.com/">concordiacollegecanalcampus.com</a></b>
+      — Next.js 16 web portal + Flutter Android app, <b>seven role-based portals</b> (Super Admin · Admin · Admissions · Accountant · Academic · Teacher · Student), built end-to-end from schema to store.</p>
+      <p>
+        <a href="https://www.concordiacollegecanalcampus.com/"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Website-LIVE-F97316?style=flat-square" alt="Concordia College platform — live website"/></a>
+        &nbsp;
+        <a href="https://www.concordiacollegecanalcampus.com/"><img src="https://img.shields.io/badge/%F0%9F%8E%93_Portals-7_ROLES-0F766E?style=flat-square" alt="Seven role-based portals"/></a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js_16-black?style=flat-square&logo=next.js&logoColor=white" alt="Next.js 16"/>
+        <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/Tailwind_CSS_4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS 4"/>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/>
+      </p>
     </td>
   </tr>
 </table>
