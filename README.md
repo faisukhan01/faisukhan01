@@ -14,7 +14,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/faisukhan01/dummysurfers/releases/latest/download/DummySurfers.apk"><img src="https://img.shields.io/badge/%F0%9F%8E%AE_Get_my_game-Dummy_Surfers-FF6B35?style=for-the-badge&logo=android&logoColor=white" alt="Download Dummy Surfers APK" height="28"/></a>
+  <a href="https://www.concordiacollegecanalcampus.com/"><img src="https://img.shields.io/badge/%F0%9F%8E%93_Concordia_College-Live-F97316?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Concordia College platform — live website" height="28"/></a>
   &nbsp;
   <a href="https://www.harmonymedspafl.com/"><img src="https://img.shields.io/badge/%F0%9F%8F%A5_Harmony_MedSpa-Live-B99656?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Harmony MedSpa — live product" height="28"/></a>
   &nbsp;
